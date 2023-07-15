@@ -18,7 +18,8 @@ Bu uygulama, kullanıcının belirttiği kriterlere göre rastgele bir şifre ol
 
 ## Ekran Görüntüleri
 
-<img src="./img/demo-img.png"/>
+![demo-img](https://github.com/tolgaugurlu/Passwords-Generator-Tkinter/assets/85436268/5f654113-048d-4143-be46-e1e60ac82a31)
+
 
 ## Kurulum
 
